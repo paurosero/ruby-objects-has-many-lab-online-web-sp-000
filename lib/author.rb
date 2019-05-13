@@ -10,6 +10,7 @@ class Author
     @post
   end
   
-  
+  def self.all 
+    
   
 end

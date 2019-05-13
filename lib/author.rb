@@ -10,9 +10,7 @@ class Author
     @post
   end
   
-  def posts 
-    @post
-  end
+  
   
  def add_post(name)
    @post <<  post

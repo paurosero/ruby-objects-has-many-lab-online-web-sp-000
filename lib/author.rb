@@ -6,4 +6,10 @@ class Author
     @post = []
   end
   
+  def posts 
+    @post
+  end
+  
+  
+  
 end

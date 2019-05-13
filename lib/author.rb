@@ -24,4 +24,6 @@ class Author
   def posts 
     @post
   end
+  
+  
 end

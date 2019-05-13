@@ -6,7 +6,10 @@ class Author
     @post = []
   end
   
- 
+  def self.all 
+    @post
+  end
+  
   def posts 
     @post
   end
